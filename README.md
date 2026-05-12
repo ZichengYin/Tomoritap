@@ -1,8 +1,5 @@
 # mikutap
 A Mainland China friendly and independent version extracted from https://aidn.jp/mikutap  
-   
-![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
-
 # 致所有自行编辑修改的人
 
 请在任何时候**不要移除原作者信息**。你可以添加你自己名字上去，但是保留原作者信息是最基本的尊重。
